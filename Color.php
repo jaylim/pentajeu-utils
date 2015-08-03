@@ -1,6 +1,6 @@
 <?php
 
-namespace pentajeu;
+namespace pentajeu\utils;
 
 class Color
 {
