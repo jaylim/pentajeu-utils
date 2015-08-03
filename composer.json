@@ -1,0 +1,19 @@
+{
+    "name": "pentajeu/utils",
+    "description": "Some basic functions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Lim",
+            "email": "jay@pentajeu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pentajeu\\utils": ""
+        }
+    }
+}
